@@ -3,3 +3,4 @@
 2026-02-13T23:03:31 | fix: correct shape mismatch in attention layer projection
 2026-02-15T15:43:42 | docs: update training pipeline requirements and dataset structure
 2026-02-15T09:34:21 | refactor: modularize backbone feature extractor
+2026-02-15T22:04:20 | feat: implement early stopping callback criteria
