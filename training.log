@@ -21,3 +21,4 @@
 2026-02-23T18:14:01 | refactor: optimize dataloader batch prefetching
 2026-02-24T23:35:54 | wip: tokenization sequence padding adjustment
 2026-03-04T12:02:13 | wip: tokenization sequence padding adjustment
+2026-03-04T16:16:38 | update: migrate loss calculation to mixed precision FP16
