@@ -46,3 +46,4 @@
 2026-03-30T13:11:51 | docs: update training pipeline requirements and dataset structure
 2026-03-30T16:52:22 | feat: integrate Weights & Biases logging for loss curves
 2026-03-30T14:09:29 | wip: tokenization sequence padding adjustment
+2026-03-30T19:40:45 | refactor: modularize backbone feature extractor
