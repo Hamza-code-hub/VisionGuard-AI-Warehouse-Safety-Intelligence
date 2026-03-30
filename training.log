@@ -42,3 +42,4 @@
 2026-03-23T18:00:40 | refactor: modularize backbone feature extractor
 2026-03-26T09:40:09 | update: migrate loss calculation to mixed precision FP16
 2026-03-30T18:56:42 | fix: correct shape mismatch in attention layer projection
+2026-03-30T11:37:52 | docs: update training pipeline requirements and dataset structure
