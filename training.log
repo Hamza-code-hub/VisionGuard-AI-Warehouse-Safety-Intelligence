@@ -47,3 +47,4 @@
 2026-03-30T16:52:22 | feat: integrate Weights & Biases logging for loss curves
 2026-03-30T14:09:29 | wip: tokenization sequence padding adjustment
 2026-03-30T19:40:45 | refactor: modularize backbone feature extractor
+2026-03-31T14:35:18 | refactor: modularize backbone feature extractor
