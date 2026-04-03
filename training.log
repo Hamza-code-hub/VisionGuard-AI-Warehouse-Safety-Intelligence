@@ -52,3 +52,4 @@
 2026-04-01T10:56:29 | feat: integrate Weights & Biases logging for loss curves
 2026-04-03T16:26:12 | fix: resolve CUDA out of memory error during validation slice
 2026-04-03T17:46:10 | feat: add custom AdamW optimizer learning rate scheduler
+2026-04-03T10:43:35 | refactor: optimize dataloader batch prefetching
