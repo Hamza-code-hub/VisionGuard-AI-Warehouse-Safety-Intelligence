@@ -57,3 +57,4 @@
 2026-04-03T18:29:13 | refactor: modularize backbone feature extractor
 2026-04-03T15:47:06 | refactor: optimize dataloader batch prefetching
 2026-04-03T22:13:07 | wip: tokenization sequence padding adjustment
+2026-04-10T18:20:37 | fix: correct shape mismatch in attention layer projection
