@@ -61,3 +61,4 @@
 2026-04-10T10:40:14 | test: validate model quantization inference latency
 2026-04-11T10:59:54 | fix: correct shape mismatch in attention layer projection
 2026-04-11T09:12:55 | feat: integrate Weights & Biases logging for loss curves
+2026-04-11T12:08:02 | update: migrate loss calculation to mixed precision FP16
