@@ -67,3 +67,4 @@
 2026-04-20T09:55:28 | fix: correct shape mismatch in attention layer projection
 2026-04-20T17:56:37 | update: migrate loss calculation to mixed precision FP16
 2026-04-20T17:06:12 | feat: add custom AdamW optimizer learning rate scheduler
+2026-04-20T20:27:09 | docs: update training pipeline requirements and dataset structure
