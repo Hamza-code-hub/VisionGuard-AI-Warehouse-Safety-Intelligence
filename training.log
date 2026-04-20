@@ -69,3 +69,4 @@
 2026-04-20T17:06:12 | feat: add custom AdamW optimizer learning rate scheduler
 2026-04-20T20:27:09 | docs: update training pipeline requirements and dataset structure
 2026-04-20T12:59:28 | fix: correct shape mismatch in attention layer projection
+2026-04-20T17:18:18 | feat: add gradient clipping to prevent gradient explosion
