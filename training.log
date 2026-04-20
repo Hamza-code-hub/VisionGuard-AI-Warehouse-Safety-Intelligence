@@ -70,3 +70,4 @@
 2026-04-20T20:27:09 | docs: update training pipeline requirements and dataset structure
 2026-04-20T12:59:28 | fix: correct shape mismatch in attention layer projection
 2026-04-20T17:18:18 | feat: add gradient clipping to prevent gradient explosion
+2026-04-20T14:18:12 | tune: adjust hyperparameter dropout rates on transformer blocks
