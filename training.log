@@ -81,3 +81,4 @@
 2026-04-25T13:58:33 | feat: add custom AdamW optimizer learning rate scheduler
 2026-04-25T17:00:18 | docs: update training pipeline requirements and dataset structure
 2026-04-25T17:48:54 | fix: correct shape mismatch in attention layer projection
+2026-04-28T15:39:54 | refactor: modularize backbone feature extractor
