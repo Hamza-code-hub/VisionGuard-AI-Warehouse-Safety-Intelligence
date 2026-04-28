@@ -83,3 +83,4 @@
 2026-04-25T17:48:54 | fix: correct shape mismatch in attention layer projection
 2026-04-28T15:39:54 | refactor: modularize backbone feature extractor
 2026-04-28T16:41:01 | feat: add gradient clipping to prevent gradient explosion
+2026-04-28T12:39:32 | fix: correct shape mismatch in attention layer projection
