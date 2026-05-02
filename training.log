@@ -90,3 +90,4 @@
 2026-04-28T12:04:21 | update: migrate loss calculation to mixed precision FP16
 2026-04-29T14:21:19 | feat: integrate Weights & Biases logging for loss curves
 2026-04-29T12:53:01 | wip: tokenization sequence padding adjustment
+2026-05-02T09:11:11 | fix: resolve CUDA out of memory error during validation slice
