@@ -94,3 +94,4 @@
 2026-05-02T15:02:39 | feat: integrate Weights & Biases logging for loss curves
 2026-05-02T16:05:46 | refactor: optimize dataloader batch prefetching
 2026-05-02T21:04:15 | wip: tokenization sequence padding adjustment
+2026-05-05T20:48:41 | feat: add custom AdamW optimizer learning rate scheduler
