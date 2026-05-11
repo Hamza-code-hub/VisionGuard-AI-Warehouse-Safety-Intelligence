@@ -100,3 +100,4 @@
 2026-05-06T22:25:20 | wip: tokenization sequence padding adjustment
 2026-05-08T15:31:11 | fix: correct shape mismatch in attention layer projection
 2026-05-11T15:02:03 | fix: correct shape mismatch in attention layer projection
+2026-05-11T13:24:04 | test: validate model quantization inference latency
