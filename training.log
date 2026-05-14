@@ -110,3 +110,4 @@
 2026-05-14T18:02:43 | cleanup: prune legacy training log checkpoints
 2026-05-14T10:10:22 | cleanup: prune legacy training log checkpoints
 2026-05-14T12:22:37 | feat: add gradient clipping to prevent gradient explosion
+2026-05-14T16:57:55 | docs: update training pipeline requirements and dataset structure
