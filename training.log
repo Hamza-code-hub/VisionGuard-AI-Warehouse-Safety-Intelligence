@@ -106,3 +106,4 @@
 2026-05-12T20:16:03 | refactor: modularize backbone feature extractor
 2026-05-14T12:10:52 | fix: resolve CUDA out of memory error during validation slice
 2026-05-14T09:12:17 | test: validate model quantization inference latency
+2026-05-14T15:49:45 | feat: integrate Weights & Biases logging for loss curves
