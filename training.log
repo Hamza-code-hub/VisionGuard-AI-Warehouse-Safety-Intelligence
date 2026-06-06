@@ -113,3 +113,4 @@
 2026-05-14T16:57:55 | docs: update training pipeline requirements and dataset structure
 2026-06-06T16:50:38 | init: implement neural network architecture foundations
 2026-06-06T19:26:21 | fix: resolve CUDA out of memory error during validation slice
+2026-06-06T21:13:06 | cleanup: prune legacy training log checkpoints
