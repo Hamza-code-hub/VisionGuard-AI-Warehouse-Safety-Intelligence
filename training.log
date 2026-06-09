@@ -117,3 +117,4 @@
 2026-06-06T13:40:12 | feat: add custom AdamW optimizer learning rate scheduler
 2026-06-07T15:15:45 | wip: tokenization sequence padding adjustment
 2026-06-07T15:30:15 | feat: integrate Weights & Biases logging for loss curves
+2026-06-09T18:18:05 | feat: add custom AdamW optimizer learning rate scheduler
