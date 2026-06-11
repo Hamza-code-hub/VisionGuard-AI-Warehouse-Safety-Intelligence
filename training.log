@@ -128,3 +128,4 @@
 2026-06-11T23:31:03 | fix: correct shape mismatch in attention layer projection
 2026-06-11T21:24:54 | feat: implement early stopping callback criteria
 2026-06-11T20:58:54 | feat: integrate Weights & Biases logging for loss curves
+2026-06-11T16:09:38 | wip: tokenization sequence padding adjustment
