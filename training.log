@@ -125,3 +125,4 @@
 2026-06-09T19:46:21 | feat: implement early stopping callback criteria
 2026-06-09T23:25:33 | docs: update training pipeline requirements and dataset structure
 2026-06-11T15:05:18 | docs: update training pipeline requirements and dataset structure
+2026-06-11T23:31:03 | fix: correct shape mismatch in attention layer projection
