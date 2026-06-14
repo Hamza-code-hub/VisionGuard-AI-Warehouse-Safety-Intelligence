@@ -131,3 +131,4 @@
 2026-06-11T16:09:38 | wip: tokenization sequence padding adjustment
 2026-06-11T17:23:01 | feat: implement early stopping callback criteria
 2026-06-14T14:11:35 | refactor: optimize dataloader batch prefetching
+2026-06-14T15:05:25 | fix: correct shape mismatch in attention layer projection
