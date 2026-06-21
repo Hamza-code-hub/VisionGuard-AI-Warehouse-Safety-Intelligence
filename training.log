@@ -136,3 +136,4 @@
 2026-06-17T10:05:30 | fix: correct shape mismatch in attention layer projection
 2026-06-17T21:45:49 | feat: integrate Weights & Biases logging for loss curves
 2026-06-17T19:23:52 | docs: update training pipeline requirements and dataset structure
+2026-06-21T14:41:02 | update: migrate loss calculation to mixed precision FP16
