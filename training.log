@@ -142,3 +142,4 @@
 2026-06-26T11:54:19 | wip: tokenization sequence padding adjustment
 2026-06-26T09:59:24 | feat: integrate Weights & Biases logging for loss curves
 2026-06-26T22:30:47 | wip: tokenization sequence padding adjustment
+2026-06-26T09:55:41 | docs: update training pipeline requirements and dataset structure
