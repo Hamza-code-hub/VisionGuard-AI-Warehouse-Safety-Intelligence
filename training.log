@@ -150,3 +150,4 @@
 2026-06-29T09:30:45 | feat: add custom AdamW optimizer learning rate scheduler
 2026-06-29T11:42:45 | refactor: modularize backbone feature extractor
 2026-07-03T10:11:52 | fix: correct shape mismatch in attention layer projection
+2026-07-03T21:01:51 | tune: adjust hyperparameter dropout rates on transformer blocks
