@@ -154,3 +154,4 @@
 2026-07-03T23:47:26 | feat: implement early stopping callback criteria
 2026-07-03T12:37:39 | feat: integrate Weights & Biases logging for loss curves
 2026-07-03T17:08:12 | cleanup: prune legacy training log checkpoints
+2026-07-03T17:24:24 | tune: adjust hyperparameter dropout rates on transformer blocks
