@@ -157,3 +157,4 @@
 2026-07-03T17:24:24 | tune: adjust hyperparameter dropout rates on transformer blocks
 2026-07-06T23:31:20 | cleanup: prune legacy training log checkpoints
 2026-07-06T12:22:57 | refactor: optimize dataloader batch prefetching
+2026-07-06T21:18:48 | test: validate model quantization inference latency
