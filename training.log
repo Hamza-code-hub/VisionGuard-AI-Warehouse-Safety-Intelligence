@@ -195,3 +195,4 @@
 2026-08-01T23:27:37 | update: migrate loss calculation to mixed precision FP16
 2026-08-01T22:56:03 | refactor: modularize backbone feature extractor
 2026-08-01T22:42:12 | refactor: optimize dataloader batch prefetching
+2026-08-13T16:23:30 | docs: update training pipeline requirements and dataset structure
