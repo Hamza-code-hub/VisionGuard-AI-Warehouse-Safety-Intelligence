@@ -203,3 +203,4 @@
 2026-08-17T09:41:10 | tune: adjust hyperparameter dropout rates on transformer blocks
 2026-08-17T13:38:27 | feat: add gradient clipping to prevent gradient explosion
 2026-08-17T10:07:47 | init: implement neural network architecture foundations
+2026-08-18T17:25:13 | feat: integrate Weights & Biases logging for loss curves
