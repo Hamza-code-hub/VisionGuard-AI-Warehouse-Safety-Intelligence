@@ -219,3 +219,4 @@
 2026-08-28T23:06:49 | init: implement neural network architecture foundations
 2026-08-28T21:47:24 | refactor: modularize backbone feature extractor
 2026-08-28T15:01:02 | wip: tokenization sequence padding adjustment
+2026-09-01T12:07:09 | docs: update training pipeline requirements and dataset structure
