@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Local generated history simulation artifacts
+visionguard-history-sim/
+/tests/cont.py
+/HISTORY_SIMULATION.md
+/development-simulation.log
+
+# YOLO weights
+models/*.pt
+models/*.onnx
+models/*.engine
+
+# Videos
+videos/*.mp4
+videos/*.avi
+videos/*.mkv
+
+# Generated events
+output/events/*
+
+# Keep folder
+!output/events/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
